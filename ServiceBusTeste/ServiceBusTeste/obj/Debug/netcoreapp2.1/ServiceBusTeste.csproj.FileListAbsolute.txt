@@ -1,0 +1,11 @@
+C:\Users\erikj\source\repos\ServiceBusTeste\ServiceBusTeste\bin\Debug\netcoreapp2.1\ServiceBusTeste.deps.json
+C:\Users\erikj\source\repos\ServiceBusTeste\ServiceBusTeste\bin\Debug\netcoreapp2.1\ServiceBusTeste.runtimeconfig.json
+C:\Users\erikj\source\repos\ServiceBusTeste\ServiceBusTeste\bin\Debug\netcoreapp2.1\ServiceBusTeste.runtimeconfig.dev.json
+C:\Users\erikj\source\repos\ServiceBusTeste\ServiceBusTeste\bin\Debug\netcoreapp2.1\ServiceBusTeste.dll
+C:\Users\erikj\source\repos\ServiceBusTeste\ServiceBusTeste\bin\Debug\netcoreapp2.1\ServiceBusTeste.pdb
+C:\Users\erikj\source\repos\ServiceBusTeste\ServiceBusTeste\obj\Debug\netcoreapp2.1\ServiceBusTeste.csprojAssemblyReference.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\ServiceBusTeste\obj\Debug\netcoreapp2.1\ServiceBusTeste.csproj.CoreCompileInputs.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\ServiceBusTeste\obj\Debug\netcoreapp2.1\ServiceBusTeste.AssemblyInfoInputs.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\ServiceBusTeste\obj\Debug\netcoreapp2.1\ServiceBusTeste.AssemblyInfo.cs
+C:\Users\erikj\source\repos\ServiceBusTeste\ServiceBusTeste\obj\Debug\netcoreapp2.1\ServiceBusTeste.dll
+C:\Users\erikj\source\repos\ServiceBusTeste\ServiceBusTeste\obj\Debug\netcoreapp2.1\ServiceBusTeste.pdb

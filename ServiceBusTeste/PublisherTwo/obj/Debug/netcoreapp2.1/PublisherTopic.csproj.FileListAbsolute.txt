@@ -1,0 +1,11 @@
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\bin\Debug\netcoreapp2.1\PublisherTopic.deps.json
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\bin\Debug\netcoreapp2.1\PublisherTopic.runtimeconfig.json
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\bin\Debug\netcoreapp2.1\PublisherTopic.runtimeconfig.dev.json
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\bin\Debug\netcoreapp2.1\PublisherTopic.dll
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\bin\Debug\netcoreapp2.1\PublisherTopic.pdb
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\obj\Debug\netcoreapp2.1\PublisherTopic.csproj.CoreCompileInputs.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\obj\Debug\netcoreapp2.1\PublisherTopic.AssemblyInfoInputs.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\obj\Debug\netcoreapp2.1\PublisherTopic.AssemblyInfo.cs
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\obj\Debug\netcoreapp2.1\PublisherTopic.dll
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\obj\Debug\netcoreapp2.1\PublisherTopic.pdb
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\obj\Debug\netcoreapp2.1\PublisherTopic.csprojAssemblyReference.cache

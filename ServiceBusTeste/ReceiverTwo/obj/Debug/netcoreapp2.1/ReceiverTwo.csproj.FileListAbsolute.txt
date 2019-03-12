@@ -1,0 +1,11 @@
+C:\Users\erikj\source\repos\ServiceBusTeste\ReceiverTwo\bin\Debug\netcoreapp2.1\ReceiverTwo.deps.json
+C:\Users\erikj\source\repos\ServiceBusTeste\ReceiverTwo\bin\Debug\netcoreapp2.1\ReceiverTwo.runtimeconfig.json
+C:\Users\erikj\source\repos\ServiceBusTeste\ReceiverTwo\bin\Debug\netcoreapp2.1\ReceiverTwo.runtimeconfig.dev.json
+C:\Users\erikj\source\repos\ServiceBusTeste\ReceiverTwo\bin\Debug\netcoreapp2.1\ReceiverTwo.dll
+C:\Users\erikj\source\repos\ServiceBusTeste\ReceiverTwo\obj\Debug\netcoreapp2.1\ReceiverTwo.csprojAssemblyReference.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\ReceiverTwo\obj\Debug\netcoreapp2.1\ReceiverTwo.csproj.CoreCompileInputs.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\ReceiverTwo\obj\Debug\netcoreapp2.1\ReceiverTwo.AssemblyInfoInputs.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\ReceiverTwo\obj\Debug\netcoreapp2.1\ReceiverTwo.AssemblyInfo.cs
+C:\Users\erikj\source\repos\ServiceBusTeste\ReceiverTwo\bin\Debug\netcoreapp2.1\ReceiverTwo.pdb
+C:\Users\erikj\source\repos\ServiceBusTeste\ReceiverTwo\obj\Debug\netcoreapp2.1\ReceiverTwo.dll
+C:\Users\erikj\source\repos\ServiceBusTeste\ReceiverTwo\obj\Debug\netcoreapp2.1\ReceiverTwo.pdb

@@ -1,0 +1,28 @@
+C:\Users\erikj\source\repos\ServiceBusTeste\ExampleServiceBus\bin\Debug\netcoreapp2.1\ExampleServiceBus.deps.json
+C:\Users\erikj\source\repos\ServiceBusTeste\ExampleServiceBus\bin\Debug\netcoreapp2.1\ExampleServiceBus.runtimeconfig.json
+C:\Users\erikj\source\repos\ServiceBusTeste\ExampleServiceBus\bin\Debug\netcoreapp2.1\ExampleServiceBus.runtimeconfig.dev.json
+C:\Users\erikj\source\repos\ServiceBusTeste\ExampleServiceBus\bin\Debug\netcoreapp2.1\ExampleServiceBus.dll
+C:\Users\erikj\source\repos\ServiceBusTeste\ExampleServiceBus\bin\Debug\netcoreapp2.1\ExampleServiceBus.pdb
+C:\Users\erikj\source\repos\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.csprojAssemblyReference.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.RazorAssemblyInfo.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.RazorAssemblyInfo.cs
+C:\Users\erikj\source\repos\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.AssemblyInfoInputs.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.AssemblyInfo.cs
+C:\Users\erikj\source\repos\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.RazorTargetAssemblyInfo.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.dll
+C:\Users\erikj\source\repos\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.pdb
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\ExampleServiceBus\bin\Debug\netcoreapp2.1\ExampleServiceBus.deps.json
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\ExampleServiceBus\bin\Debug\netcoreapp2.1\ExampleServiceBus.runtimeconfig.json
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\ExampleServiceBus\bin\Debug\netcoreapp2.1\ExampleServiceBus.runtimeconfig.dev.json
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\ExampleServiceBus\bin\Debug\netcoreapp2.1\ExampleServiceBus.dll
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\ExampleServiceBus\bin\Debug\netcoreapp2.1\ExampleServiceBus.pdb
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.csprojAssemblyReference.cache
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.RazorAssemblyInfo.cache
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.RazorAssemblyInfo.cs
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.AssemblyInfoInputs.cache
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.AssemblyInfo.cs
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.RazorTargetAssemblyInfo.cache
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.dll
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\ExampleServiceBus\obj\Debug\netcoreapp2.1\ExampleServiceBus.pdb

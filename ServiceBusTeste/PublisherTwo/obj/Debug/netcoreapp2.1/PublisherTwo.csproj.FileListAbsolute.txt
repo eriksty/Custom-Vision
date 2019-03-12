@@ -1,0 +1,11 @@
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\bin\Debug\netcoreapp2.1\PublisherTwo.deps.json
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\bin\Debug\netcoreapp2.1\PublisherTwo.runtimeconfig.json
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\bin\Debug\netcoreapp2.1\PublisherTwo.runtimeconfig.dev.json
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\bin\Debug\netcoreapp2.1\PublisherTwo.dll
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\obj\Debug\netcoreapp2.1\PublisherTwo.csprojAssemblyReference.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\obj\Debug\netcoreapp2.1\PublisherTwo.csproj.CoreCompileInputs.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\obj\Debug\netcoreapp2.1\PublisherTwo.AssemblyInfoInputs.cache
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\obj\Debug\netcoreapp2.1\PublisherTwo.AssemblyInfo.cs
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\bin\Debug\netcoreapp2.1\PublisherTwo.pdb
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\obj\Debug\netcoreapp2.1\PublisherTwo.dll
+C:\Users\erikj\source\repos\ServiceBusTeste\PublisherTwo\obj\Debug\netcoreapp2.1\PublisherTwo.pdb
