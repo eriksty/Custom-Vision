@@ -9,6 +9,7 @@ using ExampleServiceBus.Service;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction;
+using Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.Models;
 using Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training;
 using Microsoft.EntityFrameworkCore;
 
@@ -22,7 +23,7 @@ namespace ExampleServiceBus.Controllers
 
         [HttpPost]
         public async Task Post(Teste value)
-         {
+        {
             await SendQueue.SendMessagesAsync(value);
             await SendQueue.Finish();
         }
@@ -89,15 +90,25 @@ namespace ExampleServiceBus.Controllers
             //        return Ok(c);
             //    }
             //}
+            var c = new List<PredictionModel>();
             var result = endpoint.PredictImage(Guid.Parse("cbfa66a3-9815-47d6-a389-7438e468ac15"), img[0].OpenReadStream());
 
-            //var a = Math.Round(result.Predictions[0].Probability, 5);
-            //var b = Math.Round(result.Predictions[1].Probability, 5);
+            foreach (var item in result.Predictions.OrderBy(x => x.Probability))
+            {
+                var pm = new PredictionModel(Math.Round(item.Probability * 100), item.TagId, item.TagName, item.BoundingBox);
 
-            //var c = result.Predictions[0];
-            //var d = result.Predictions[1];
+                if (pm.Probability > 70)
+                {
+                    pm.BoundingBox.Top = Convert.ToInt32(pm.BoundingBox.Top * 380);
+                    pm.BoundingBox.Height = Convert.ToInt32(pm.BoundingBox.Height * 380);
+                    pm.BoundingBox.Left = Convert.ToInt32(pm.BoundingBox.Left * 700);
+                    pm.BoundingBox.Width = Convert.ToInt32(pm.BoundingBox.Width * 700);
+                    c.Add(pm);
+                }
 
-            return Ok(result.Predictions);
+            }
+
+            return Ok(c);
         }
     }
 
