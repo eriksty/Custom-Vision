@@ -27,19 +27,17 @@ namespace FunctionApp1
         public static async Task<HttpResponseMessage> Run([HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)]HttpRequestMessage req, TraceWriter log)
         {
 
-            try
-            {
-                await connection.OpenAsync();
-            }
-            catch (Exception)
-            {
+            //try
+            //{
+            //    await connection.OpenAsync();
+            //}
+            //catch (Exception)
+            //{
 
-                throw;
-            }
-
+            //    throw;
+            //}
 
             Prediction pd = new Prediction();
-
 
             string url = "https://informebairro.com.br/wp-content/uploads/2018/01/aula-de-instrumentos-musicais-violao-guitarra.jpg";
             for (int i = 0; i < 2; i++)
