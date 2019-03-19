@@ -9,3 +9,14 @@ C:\Users\erikj\source\repos\ServiceBusTeste\Receiver\obj\Debug\netcoreapp2.1\Rec
 C:\Users\erikj\source\repos\ServiceBusTeste\Receiver\obj\Debug\netcoreapp2.1\ReceiverQueue.dll
 C:\Users\erikj\source\repos\ServiceBusTeste\Receiver\obj\Debug\netcoreapp2.1\ReceiverQueue.pdb
 C:\Users\erikj\source\repos\ServiceBusTeste\Receiver\obj\Debug\netcoreapp2.1\ReceiverQueue.csprojAssemblyReference.cache
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Receiver\bin\Debug\netcoreapp2.1\ReceiverQueue.deps.json
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Receiver\bin\Debug\netcoreapp2.1\ReceiverQueue.runtimeconfig.json
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Receiver\bin\Debug\netcoreapp2.1\ReceiverQueue.runtimeconfig.dev.json
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Receiver\bin\Debug\netcoreapp2.1\ReceiverQueue.dll
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Receiver\bin\Debug\netcoreapp2.1\ReceiverQueue.pdb
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Receiver\obj\Debug\netcoreapp2.1\ReceiverQueue.csprojAssemblyReference.cache
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Receiver\obj\Debug\netcoreapp2.1\ReceiverQueue.csproj.CoreCompileInputs.cache
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Receiver\obj\Debug\netcoreapp2.1\ReceiverQueue.AssemblyInfoInputs.cache
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Receiver\obj\Debug\netcoreapp2.1\ReceiverQueue.AssemblyInfo.cs
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Receiver\obj\Debug\netcoreapp2.1\ReceiverQueue.dll
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Receiver\obj\Debug\netcoreapp2.1\ReceiverQueue.pdb

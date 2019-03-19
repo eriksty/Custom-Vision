@@ -19,12 +19,24 @@ namespace ExampleServiceBus.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+
+      
         private DataContext db = new DataContext();
 
         [HttpPost]
         public async Task Post(Teste value)
         {
-            await SendQueue.SendMessagesAsync(value);
+            var c = new List<Teste>();  
+            
+
+            for (var i = 0; i < 200; i++)
+            {
+                c.Add(value);
+               
+            }
+
+            await SendQueue.SendMessagesAsync(c);
+
             await SendQueue.Finish();
         }
 
@@ -79,19 +91,15 @@ namespace ExampleServiceBus.Controllers
                 Endpoint = southcentralus
             };
 
-
-            //foreach (var item in img)
-            //{
-            //    var result = endpoint.PredictImage(project.Id, item.OpenReadStream());
-
-            //    foreach (var c in result.Predictions)
-            //    {
-            //        //Console.WriteLine($"\t{c.TagName}: {c.Probability:P1} [ {c.BoundingBox.Left}, {c.BoundingBox.Top}, {c.BoundingBox.Width}, {c.BoundingBox.Height} ]");
-            //        return Ok(c);
-            //    }
-            //}
             var c = new List<PredictionModel>();
             var result = endpoint.PredictImage(Guid.Parse("cbfa66a3-9815-47d6-a389-7438e468ac15"), img[0].OpenReadStream());
+
+            ImageUrl imgUrl = new ImageUrl();
+            imgUrl.Url = "https://http2.mlstatic.com/guitarra-tagima-pr-200-special-pr200-sunburst-D_NQ_NP_894387-MLB26271081482_112017-F.jpg";
+
+
+
+            var resultImageUrl = endpoint.PredictImageUrl(Guid.Parse("cbfa66a3-9815-47d6-a389-7438e468ac15"), imgUrl);
 
             foreach (var item in result.Predictions.OrderBy(x => x.Probability))
             {

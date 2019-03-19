@@ -4,6 +4,7 @@ using System;
 using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
+using System.Collections.Generic;
 
 namespace ExampleServiceBus.Service
 {
@@ -18,12 +19,11 @@ namespace ExampleServiceBus.Service
             queueClient = new QueueClient(ServiceBusConnectionString, QueueName);
         }
 
-        public static async Task SendMessagesAsync(Teste employee)
+        public static async Task SendMessagesAsync(List<Teste> employee)
         {
             try
             {
                 queueClient = new QueueClient(ServiceBusConnectionString, QueueName);
-
 
                 var item = JsonConvert.SerializeObject(employee);
                 var message = new Message(Encoding.UTF8.GetBytes(item));
