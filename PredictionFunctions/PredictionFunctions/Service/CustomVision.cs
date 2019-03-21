@@ -48,7 +48,7 @@ namespace PredictionFunctions.Service
             {
                 var resultPredction = new PredictionModel(Math.Round(item.Probability * 100), item.TagId, item.TagName, item.BoundingBox);
 
-                if (resultPredction.Probability > 90)
+                if (resultPredction.Probability > 70)
                 {
                     resultPredction.BoundingBox.Top = Convert.ToInt32(resultPredction.BoundingBox.Top * 380);
                     resultPredction.BoundingBox.Height = Convert.ToInt32(resultPredction.BoundingBox.Height * 380);
@@ -57,7 +57,6 @@ namespace PredictionFunctions.Service
                     predictions.Add(resultPredction);
                     count++;
                 }
-
             }
 
             if (count == 0)

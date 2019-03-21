@@ -9,3 +9,14 @@ C:\Users\erikj\source\repos\ServiceBusTeste\Publisher\obj\Debug\netcoreapp2.1\Pu
 C:\Users\erikj\source\repos\ServiceBusTeste\Publisher\obj\Debug\netcoreapp2.1\PublisherQueue.dll
 C:\Users\erikj\source\repos\ServiceBusTeste\Publisher\obj\Debug\netcoreapp2.1\PublisherQueue.pdb
 C:\Users\erikj\source\repos\ServiceBusTeste\Publisher\obj\Debug\netcoreapp2.1\PublisherQueue.csprojAssemblyReference.cache
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Publisher\bin\Debug\netcoreapp2.1\PublisherQueue.deps.json
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Publisher\bin\Debug\netcoreapp2.1\PublisherQueue.runtimeconfig.json
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Publisher\bin\Debug\netcoreapp2.1\PublisherQueue.runtimeconfig.dev.json
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Publisher\bin\Debug\netcoreapp2.1\PublisherQueue.dll
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Publisher\bin\Debug\netcoreapp2.1\PublisherQueue.pdb
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Publisher\obj\Debug\netcoreapp2.1\PublisherQueue.csprojAssemblyReference.cache
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Publisher\obj\Debug\netcoreapp2.1\PublisherQueue.csproj.CoreCompileInputs.cache
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Publisher\obj\Debug\netcoreapp2.1\PublisherQueue.AssemblyInfoInputs.cache
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Publisher\obj\Debug\netcoreapp2.1\PublisherQueue.AssemblyInfo.cs
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Publisher\obj\Debug\netcoreapp2.1\PublisherQueue.dll
+C:\Users\erikj\OneDrive\Área de Trabalho\a\Custom-Vision\ServiceBusTeste\Publisher\obj\Debug\netcoreapp2.1\PublisherQueue.pdb

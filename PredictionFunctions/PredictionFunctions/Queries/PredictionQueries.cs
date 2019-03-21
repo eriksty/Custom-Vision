@@ -18,7 +18,7 @@ namespace PredictionFunctions.Queries
     public class PredictionQueries : IPredictionQueries
     {
         Prediction prediction = new Prediction();
-        SqlConnection connection = new SqlConnection("Server=N176;Database=Predictions;Trusted_Connection=True");
+        SqlConnection connection = new SqlConnection("Server=DESKTOP-2ME9TD4\\SQLEXPRESS;Database=Predictions;Trusted_Connection=True");
         public PredictionQueries()
         {
             try
@@ -39,7 +39,7 @@ namespace PredictionFunctions.Queries
             {
                 prediction.Id = Guid.NewGuid();
                 prediction.Url = url;
-                if (item.Probability > 90)
+                if (item.Probability > 70)
                     prediction.CanAdvertisement = true;
                 else
                     prediction.CanAdvertisement = false;
