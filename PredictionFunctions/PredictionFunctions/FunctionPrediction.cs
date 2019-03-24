@@ -13,7 +13,7 @@ namespace PredictionFunctions
 {
     public static class FunctionPrediction
     {
-        [FunctionName("Function1")]
+        [FunctionName("Prediction")]
         public static async Task<HttpResponseMessage> Run([HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)]HttpRequestMessage req, TraceWriter log)
         {
             CustomVision ct = new CustomVision();
@@ -32,16 +32,16 @@ namespace PredictionFunctions
                 dynamic data = await req.Content.ReadAsAsync<object>();
                 name = data?.name;
             }
-      
-           var result = await ct.PredictionImages(url);
 
-            await pq.Add(result,url);
+            var result = await ct.PredictionImages(url);
+
+            await pq.Add(result, url);
 
             var jsonToReturn = JsonConvert.SerializeObject(name);
 
             return name == null
-                ? req.CreateResponse(HttpStatusCode.BadRequest, "Please pass a name on the query string or in the request body")
-                : req.CreateResponse(HttpStatusCode.OK, "Hello " + jsonToReturn, "application/json");
+                ? req.CreateResponse(HttpStatusCode.BadRequest, "Status: " + "BadRequest", "application/json")
+                : req.CreateResponse(HttpStatusCode.OK, "Status: " + "Sucess", "application/json");
         }
     }
 }

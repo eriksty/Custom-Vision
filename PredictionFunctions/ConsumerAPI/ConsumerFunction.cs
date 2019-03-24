@@ -13,7 +13,7 @@ namespace ConsumerAPI
 {
     public static class Function1
     {
-        [FunctionName("Function1")]
+        [FunctionName("ConsumerAPI")]
         public static async Task<HttpResponseMessage> Run([HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)]HttpRequestMessage req, TraceWriter log)
         {
             SendQueue queue = new SendQueue();
